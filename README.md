@@ -1,7 +1,5 @@
 # AddPhoto
 
-___
-
 Fully responsive landing page layout, which will look great on any device
 
 ## Stack Technologies
